@@ -188,3 +188,106 @@ No license should be applied to third-party material without the necessary permi
 **Project Name:** Global Cultural Equity Repository (GCER)
 
 **Main Goal:** To promote cultural awareness, challenge discriminatory stereotypes, and support social inclusion through an open-source, reusable digital knowledge repository.
+
+
+
+
+# TAM, SAM, and SOM: Market Sizing Framework
+
+## 1. Overview
+
+TAM, SAM, and SOM are business terminology used to estimate market size, evaluate business opportunities, and define realistic growth objectives. These metrics help entrepreneurs, investors, and organizations understand the potential demand for a product or service.
+
+## 2. Definitions
+
+### TAM — Total Addressable Market
+
+TAM represents the total potential demand for a product or service if a business could reach every relevant customer in the market.
+
+**Purpose:** To estimate the maximum market opportunity.
+
+**Example:** If 1,000,000 potential customers each spend $50 annually on a specific type of product:
+
+TAM = 1,000,000 × $50 = $50,000,000 per year.
+
+### SAM — Serviceable Available Market
+
+SAM represents the portion of the TAM that a business can serve based on its business model, geographical coverage, target customers, and product capabilities.
+
+**Purpose:** To identify the market segment relevant to the business.
+
+**Example:** If the business can serve 200,000 of those customers:
+
+SAM = 200,000 × $50 = $10,000,000 per year.
+
+### SOM — Serviceable Obtainable Market
+
+SOM represents the portion of the SAM that a business can realistically capture within a defined period, considering competition, resources, distribution capacity, and marketing strategy.
+
+**Purpose:** To establish a realistic sales target and estimate achievable market share.
+
+**Example:** If the business expects to reach 5% of its SAM:
+
+SOM = $10,000,000 × 5% = $500,000 per year.
+
+## 3. Comparison Table
+
+| Metric | Full Name | Main Question | Scope |
+|---|---|---|---|
+| TAM | Total Addressable Market | How large is the total potential market? | Entire relevant market |
+| SAM | Serviceable Available Market | Which part of the market can the business serve? | Targetable market segment |
+| SOM | Serviceable Obtainable Market | How much of that market can the business realistically capture? | Achievable market share |
+
+## 4. Relationship Between TAM, SAM, and SOM
+
+The three metrics represent progressively narrower market opportunities:
+
+- **TAM:** The total potential market.
+- **SAM:** The portion aligned with the business's capabilities and target segment.
+- **SOM:** The realistically obtainable portion of the SAM.
+
+In a consistent market-sizing model:
+
+SOM ≤ SAM ≤ TAM
+
+These estimates should use compatible units, geographical boundaries, customer definitions, and time periods.
+
+## 5. Calculation Methods
+
+### TAM
+TAM = Total Potential Customers × Average Annual Revenue per Customer
+
+### SAM
+SAM = Serviceable Customers × Average Annual Revenue per Customer
+
+### SOM
+SOM = SAM × Estimated Obtainable Market Share
+
+The market share used to calculate SOM should be supported by realistic assumptions about competition, sales capacity, budget, and customer demand.
+
+## 6. Importance in Business Planning
+
+TAM, SAM, and SOM help businesses:
+
+- Evaluate market opportunities before launching a product.
+- Define target customers and geographical markets.
+- Establish realistic sales and growth objectives.
+- Support business plans and investor presentations.
+- Allocate marketing and operational resources more effectively.
+
+## 7. Best Practices
+
+- Use reliable market research and documented data sources.
+- Clearly define the target audience and geographical scope.
+- Distinguish total market demand from achievable sales.
+- State assumptions and the period covered by each estimate.
+- Avoid overstating market potential without supporting evidence.
+- Review estimates when market conditions or business capabilities change.
+
+## 8. Conclusion
+
+TAM, SAM, and SOM provide a structured approach to market analysis and business planning. TAM measures the total potential opportunity, SAM identifies the market a business can serve, and SOM estimates the share it can realistically obtain. Together, these metrics support evidence-based decisions and realistic business strategies.
+
+---
+
+**Key Terminology:** Market Sizing, Target Market, Market Share, Revenue Potential, Customer Segmentation, Business Strategy, and Market Opportunity.
